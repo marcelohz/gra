@@ -23,7 +23,7 @@
 # URLs
 
 
-Get shortest and lomgest winning intervals
+Get shortest and longest winning intervals
 
 http://127.0.0.1:5000/awards/min_max
 
