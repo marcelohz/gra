@@ -37,12 +37,16 @@ e.g. http://127.0.0.1:5000/awards/producer/adam%20sandler
 
 
 ### Get titles by year
+
 http://127.0.0.1:5000/awards/year/(year)
+
 e.g. http://127.0.0.1:5000/awards/year/1994
 
 
 ### Get awards by year
+
 http://127.0.0.1:5000/awards/year/(year)
+
 e.g. http://127.0.0.1:5000/awards/year/1994
 
 ### Get all winners
