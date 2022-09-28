@@ -1,4 +1,4 @@
-# create a virtual enviroment (Windows)
+# Create a virtual enviroment (Windows)
 
 `py -m venv venv`
 
