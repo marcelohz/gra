@@ -1,4 +1,4 @@
-# Create a virtual enviroment (Windows)
+## Create a virtual enviroment (Windows)
 
 `py -m venv venv`
 
@@ -8,19 +8,19 @@
 
 
 
-# Run tests 
+## Run tests 
 
 `python test_gra.py`
 
 
 
-# Run server
+## Run server
 
 `python gra.py`
 
 
 
-# URL examples
+## URL examples
 
 
 Get shortest and longest winning intervals
