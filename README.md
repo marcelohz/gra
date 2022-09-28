@@ -23,13 +23,13 @@
 ## URLs
 
 
-Get shortest and longest winning intervals
+### Get shortest and longest winning intervals
 
 http://127.0.0.1:5000/awards/min_max
 
 
 
-Get all titles by producer
+### Get all titles by producer
 
 http://127.0.0.1:5000/awards/producer/(producer)
 
@@ -37,19 +37,19 @@ e.g. http://127.0.0.1:5000/awards/producer/adam%20sandler
 
 
 
-Get all winners
+### Get all winners
 
 http://127.0.0.1:5000/awards/winners
 
 
-Get winner by year
+### Get winner by year
 
 http://127.0.0.1:5000/awards/winner/(year)
 
 e.g. http://127.0.0.1:5000/awards/winner/1996
 
 
-Get titles by studio
+### Get titles by studio
 
 http://127.0.0.1:5000/awards/studio/(studio)
 
