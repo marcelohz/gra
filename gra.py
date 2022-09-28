@@ -2,13 +2,17 @@ import csv
 import json
 import os
 import sqlite3
+import sys
+
 from flask import Flask
 
 app = Flask(__name__)
 
+print(sys.argv[0])
+
 # db_file = r'.\gra.db'
 db_file = ':memory:'
-csv_file = r'.\movielist (2).csv'
+csv_file = os.path.join(os.path.dirname(sys.argv[0]), 'movielist (2).csv')
 conn = None
 
 
